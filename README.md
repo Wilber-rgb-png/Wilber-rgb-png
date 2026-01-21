@@ -18,7 +18,9 @@
 ## 🎓 Education
 **Bachelor of Science in Information Technology** 
    *Kabarak University*
+   
 **Internet and Computing Core Certification (IC3)** — *Distinction* 
+
 **Cisco Certified Data Analytics** 
 
 ---
