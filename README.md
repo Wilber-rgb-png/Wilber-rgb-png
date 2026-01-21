@@ -31,9 +31,11 @@
 **Frontend:** HTML5, CSS3, JavaScript
 **UI/UX:** Design Systems, Wireframing, figma
 **Mobile:** Application Development & System Analysis 
-### Data & Infrastructure
+### Data & Infrastructure:
 **Databases:** SQL (MySQL, PostgreSQL) 
+
 **Analysis:** Python, Excel,tableu
+
 **Systems:** Network Troubleshooting, System Administration, Hardware Configuration 
 ---
 
