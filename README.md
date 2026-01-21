@@ -16,25 +16,23 @@
 ---
 
 ## 🎓 Education
-* [cite_start]**Bachelor of Science in Information Technology** [cite: 5]
-    * [cite_start]*Kabarak University* [cite: 5, 31]
-* [cite_start]**Internet and Computing Core Certification (IC3)** — *Distinction* [cite: 13]
-* [cite_start]**Cisco Certified Data Analytics** [cite: 17]
+**Bachelor of Science in Information Technology** 
+   *Kabarak University*
+**Internet and Computing Core Certification (IC3)** — *Distinction* 
+**Cisco Certified Data Analytics** 
 
 ---
 
 ## 🛠️ Technical Expertise
 
 ### Software Development & Design
-* [cite_start]**Frontend:** HTML5, CSS3, JavaScript [cite: 9]
-* [cite_start]**UI/UX:** Design Systems, Wireframing, Figma [cite: 9]
-* [cite_start]**Mobile:** Application Development & System Analysis [cite: 9]
-
+**Frontend:** HTML5, CSS3, JavaScript
+**UI/UX:** Design Systems, Wireframing, figma
+**Mobile:** Application Development & System Analysis 
 ### Data & Infrastructure
-* [cite_start]**Databases:** SQL (MySQL, PostgreSQL) [cite: 10]
-* [cite_start]**Analysis:** Python, Excel [cite: 10]
-* [cite_start]**Systems:** Network Troubleshooting, System Administration, Hardware Configuration [cite: 7, 10]
-
+**Databases:** SQL (MySQL, PostgreSQL) 
+**Analysis:** Python, Excel,tableu
+**Systems:** Network Troubleshooting, System Administration, Hardware Configuration 
 ---
 
 ## 🚀 Featured Projects
@@ -46,7 +44,7 @@ A full-scale digital classroom solution designed for course management and inter
 A logistics-focused platform streamlining transport scheduling, inventory tracking, and client bookings.
 
 ### **[Agrimatch (Mobile App)](https://wilber-rgb-png.github.io)**
-[cite_start]System Analyst and Developer for a solution providing farmers with data-driven climate and soil suitability insights[cite: 29].
+System Analyst and Developer for a solution providing farmers with data-driven climate and soil suitability insights
 
 ---
 
