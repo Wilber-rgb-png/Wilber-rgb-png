@@ -50,16 +50,24 @@ A logistics-focused platform streamlining transport scheduling, inventory tracki
 
 ---
 
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilber-rgb-png&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="Wilber's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilber-rgb-png&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" alt="Top Langs" />
+---
+
+## 🛠️ My Tech Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres,mysql,figma,github,vercel,docker,linux" />
 </p>
 
 ---
 
+## 🐍 Contribution Activity
 <p align="center">
-  <a href="https://wilber-rgb-png.github.io/Wilber-CV.pdf" target="_blank">
-    <b>Download Professional CV</b>
-  </a>
+  <img src="https://raw.githubusercontent.com/Wilber-rgb-png/Wilber-rgb-png/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+---
+
+## ⚡ Quick Facts
+- 🔭 **Working on:** Movers Logistics System & E-Learning Platform
+- 🎓 **Education:** BSc. IT from Kabarak University
+- 📜 **Certified:** IC3 (Distinction) & Cisco Data Analytics
+- 💬 **Ask me about:** UI/UX, System Analysis, or Networking
