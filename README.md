@@ -11,7 +11,9 @@
   <a href="https://wilber-rgb-png.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-</p>
+</p
+
+  Looking to use this theme? Click here to visit the template branch and click Use this template.
 
 ---
 
