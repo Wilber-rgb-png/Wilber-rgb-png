@@ -12,14 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p
-## 🚀 USE THIS TEMPLETE
-If you like this design, you can use it for your own portfolio! 
 
-1. Visit the [Obsidian Gold Template Branch](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/tree/template-version).
-2. Click the green **"Use this template"** button.
-3. Follow the instructions to customize it with your own details.
-
-> **Note:** Please keep the "Designed by Wilber Maeri" credit in the footer as per the [MIT License](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/blob/template-version/LICENSE).
 ---
 
 ## 🎓 Education
@@ -58,7 +51,20 @@ A logistics-focused platform streamlining transport scheduling, inventory tracki
 System Analyst and Developer for a solution providing farmers with data-driven climate and soil suitability insights
 
 ---
+## 🚀 USE THIS TEMPLETE
+If you like this design, you can use it for your own portfolio! 
 
+1. Visit the [Obsidian Gold Template Branch](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/tree/template-version).
+2. Click the green **"Use this template"** button.
+3. Follow the instructions to customize it with your own details.
+4. # 🌟 Obsidian Gold Portfolio Template
+
+To get started with your new portfolio:
+1. Open `index.html` and replace all `[PLACEHOLDERS]` with your info.
+2. Upload your own CV as `my-cv.pdf` and update the link in the code.
+3. Replace `preview-image.png` with your own branding.
+
+> **Note:** Please keep the "Designed by Wilber Maeri" credit in the footer as per the [MIT License](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/blob/template-version/LICENSE).
 ---
 
 ## 🛠️ My Tech Toolbox
