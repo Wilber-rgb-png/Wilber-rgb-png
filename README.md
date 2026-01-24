@@ -12,9 +12,14 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p
+## 🚀 USE THIS TEMPLETE
+If you like this design, you can use it for your own portfolio! 
 
-  Looking to use this theme? Click here to visit the template branch and click Use this template.
+1. Visit the [Obsidian Gold Template Branch](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/tree/template-version).
+2. Click the green **"Use this template"** button.
+3. Follow the instructions to customize it with your own details.
 
+> **Note:** Please keep the "Designed by Wilber Maeri" credit in the footer as per the [MIT License](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/blob/template-version/LICENSE).
 ---
 
 ## 🎓 Education
