@@ -39,7 +39,7 @@
 **Systems:** Network Troubleshooting, System Administration, Hardware Configuration 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### **[E-Learning Platform](https://wilber-rgb-png.github.io)**
 A full-scale digital classroom solution designed for course management and interactive student tracking.
@@ -51,13 +51,14 @@ A logistics-focused platform streamlining transport scheduling, inventory tracki
 System Analyst and Developer for a solution providing farmers with data-driven climate and soil suitability insights
 
 ---
-## 🚀 USE THIS TEMPLETE
+## 😁 USE THIS TEMPLETE
 If you like this design, you can use it for your own portfolio! 
 
 1. Visit the [Obsidian Gold Template Branch](https://github.com/Wilber-rgb-png/Wilber-rgb-png.github.io/tree/template-version).
 2. Click the green **"Use this template"** button.
 3. Follow the instructions to customize it with your own details.
-4. # 🌟 Obsidian Gold Portfolio Template
+   
+5. # 🌟 Obsidian Gold Portfolio Template
 
 To get started with your new portfolio:
 1. Open `index.html` and replace all `[PLACEHOLDERS]` with your info.
@@ -74,15 +75,15 @@ To get started with your new portfolio:
 
 ---
 
-## 🐍 Contribution Activity
+## My Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wilber-rgb-png/Wilber-rgb-png/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
-## ⚡ Quick Facts
-- 🔭 **Working on:** Movers Logistics System & E-Learning Platform
-- 🎓 **Education:** BSc. IT from Kabarak University
-- 📜 **Certified:** IC3 (Distinction) & Cisco Data Analytics
-- 💬 **Ask me about:** UI/UX, System Analysis, or Networking
+##  Quick Facts
+-  **Working on:** Developing real life system with stylish and modern UI/UIX.
+-  **Education:** BSc. IT from Kabarak University
+-  **Certified:** IC3 (Distinction) & Cisco Data Analytics
+-  **Ask me about:** UI/UX, System Analysis, system development, Modern architecture
