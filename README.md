@@ -1,5 +1,5 @@
 # WILBER MAERI MANYARA.
-### Software Developer • UI/UX Designer • IT Professional
+### Software Engineer • UI/UX Designer • IT Professional
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wilber-maeri-ab200466cd" target="_blank">
